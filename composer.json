@@ -1,0 +1,12 @@
+{
+    "require": {
+        "kato/airwallex-api": "dev-main",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../airwallex-api"
+        }
+    ]
+}
